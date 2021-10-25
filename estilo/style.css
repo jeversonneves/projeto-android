@@ -52,7 +52,6 @@ header {
     min-width: 150px;
     text-align: center;
     padding-top: 40px;
-    padding-bottom: 30px;
 }
 
 header > h1 {
@@ -71,6 +70,7 @@ header > p {
     max-width: 600px;
     padding-right: 10px;
     padding-left: 10px;
+    padding-bottom: 50px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
 }
